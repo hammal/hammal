@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- I'm currently working on a Python project [cbadc](https://cbadc.readthedocs.io/en/latest/), a design and evaluation tool for control-bounded analog-to-digital converters. 
+- I'm currently learning [rust](https://www.rust-lang.org).
+- I'm always looking to collaborate on exciting projects and better my programming skills.
+- I work as a postdocotral researcher at [*ETH* Zürich](https://ethz.ch/en.html).
+- Here, you can find my [academic CV](https://hammal.github.io).
+
+
 <!--
 **hammal/hammal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
